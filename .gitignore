@@ -1,0 +1,17 @@
+# Python cache (required for your bot)
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments (if you ever use one)
+venv/
+env/
+.venv/
+
+# OS junk files (not needed for bot)
+.DS_Store
+Thumbs.db
+
+# IDE files (optional but common)
+.vscode/
+.idea/
