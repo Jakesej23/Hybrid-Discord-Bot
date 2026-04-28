@@ -41,9 +41,9 @@ You can use either `!` or `?`
 ## 📦 Installation
 
 ### 1. Clone the repository
-```bash
+`bash
 git clone https://github.com/Jakesej23/Hybrid-Discord-Bot.git
-cd Hybrid-Discord-Bot```
+cd Hybrid-Discord-Bot`
 
 
 2. Install dependencies
