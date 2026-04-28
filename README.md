@@ -76,6 +76,7 @@ ADDITIONAL PY MODULES: Install additional python packages. Use spaces to separat
 * ✔️ But you MUST use requirements.txt only if you edit the startup – it’s not needed otherwise
 
 👉 Advantage: super easy for beginners
+
 👉 Disadvantage: free plan has limits
 
 👉 No renewals: free uptime 24/7, no renewals at all 
