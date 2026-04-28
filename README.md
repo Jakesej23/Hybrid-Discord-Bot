@@ -1,3 +1,6 @@
+
+Nej den her Nej det SKAL være hele Beskeden i en. Ikke fjerne noget kun ret
+
 # 🤖 Hybrid Discord Bot
 
 A lightweight **hybrid Discord bot** built with `discord.py` that supports both **prefix commands (! / ?)** and **slash commands (/)**.  
@@ -44,3 +47,67 @@ You can use either `!` or `?`
 ```bash
 git clone https://github.com/Jakesej23/Hybrid-Discord-Bot.git
 cd Hybrid-Discord-Bot
+
+2. Install dependencies
+
+pip install -r requirements.txt
+
+3. Add your bot token
+
+Open bot.py and replace:
+
+TOKEN = "YOUR_BOT_TOKEN_HERE"
+
+4. Run the bot **You don’t use a hosting website for this:**
+
+`python bot.py`
+
+5, Run the bot **You use a hosting website for this:**
+
+🟦 Wispbyte (very popular)
+
+* ✔️ Free 24/7 hosting
+* ✔️ Upload via dashboard / GitHub
+* ✔️ Node.js + Python + more languages support
+* ✔️ No “premium requirements” for basic use
+* ✔️ You don’t use:
+
+ADDITIONAL PY MODULES: Install additional python packages. Use spaces to separate.
+
+* ✔️ But you MUST use requirements.txt only if you edit the startup – it’s not needed otherwise
+
+👉 Advantage: super easy for beginners
+👉 Disadvantage: free plan has limits
+
+👉 No renewals: free uptime 24/7, no renewals at all 
+
+⸻
+
+🟩 KataBump (classic)
+
+* ✔️ Free plan for bots
+* ✔️ Web upload + SFTP
+* ✔️ 24/7 hosting **with renewal every 4 days**
+* ✔️ Python & Node.js support
+
+👉 Advantage: stable and made specifically for Discord bots
+👉 Disadvantage: you must renew your server every 4 days, not just once, but every 4 days
+
+✔️ You MUST use this:
+
+ADDITIONAL PY MODULES
+
+Install additional python packages.
+Use spaces to separate:
+
+`discord.py python-dotenv aiohttp requests`
+
+requirements.txt
+
+discord.py>=2.3.0,<3.0.0
+
+⚙️ Tech Stack
+
+* Python 3.10+
+* discord.py (2.x)
+* Discord API (Slash + Prefix commands)
