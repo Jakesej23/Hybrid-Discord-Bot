@@ -1,6 +1,3 @@
-
-Nej den her Nej det SKAL være hele Beskeden i en. Ikke fjerne noget kun ret
-
 # 🤖 Hybrid Discord Bot
 
 A lightweight **hybrid Discord bot** built with `discord.py` that supports both **prefix commands (! / ?)** and **slash commands (/)**.  
