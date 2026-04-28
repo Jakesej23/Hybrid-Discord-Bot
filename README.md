@@ -45,9 +45,10 @@ You can use either `!` or `?`
 git clone https://github.com/Jakesej23/Hybrid-Discord-Bot.git
 cd Hybrid-Discord-Bot```
 
+
 2. Install dependencies
 
-pip install -r requirements.txt
+`pip install -r requirements.txt`
 
 3. Add your bot token
 
@@ -59,7 +60,8 @@ TOKEN = "YOUR_BOT_TOKEN_HERE"
 
 `python bot.py`
 
-5, Run the bot **You use a hosting website for this:**
+
+5. Run the bot **You use a hosting website for this:**
 
 🟦 Wispbyte (very popular)
 
