@@ -56,12 +56,12 @@ Open bot.py and replace:
 
 TOKEN = "YOUR_BOT_TOKEN_HERE"
 
-4. Run the bot **You don’t use a hosting website for this:**
+4. Run the bot **You don’t use a discord bot hosting website for this:**
 
 `python bot.py`
 
 
-5. Run the bot **You use a hosting website for this:**
+5. Run the bot **You use a discord bot hosting website for this:**
 
 🟦 Wispbyte (very popular)
 
