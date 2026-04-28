@@ -91,6 +91,7 @@ ADDITIONAL PY MODULES: Install additional python packages. Use spaces to separat
 * ✔️ Python & Node.js support
 
 👉 Advantage: stable and made specifically for Discord bots
+
 👉 Disadvantage: you must renew your server every 4 days, not just once, but every 4 days
 
 ✔️ You MUST use this:
