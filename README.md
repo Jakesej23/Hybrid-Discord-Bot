@@ -42,5 +42,5 @@ You can use either `!` or `?`
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/Jakesej23/Hybrid-utility-Discord-bot-fun-commands-basic-tools-.git
-cd Hybrid-utility-Discord-bot-fun-commands-basic-tools-
+git clone https://github.com/Jakesej23/Hybrid-Discord-Bot.git
+cd Hybrid-Discord-Bot
