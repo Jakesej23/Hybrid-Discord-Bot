@@ -26,9 +26,9 @@ You can use either `!` or `?`
 
 - `!ping` / `?ping` → Check bot latency  
 - `!coin` / `?coin` → Flip a coin  
-- `!rand` → Generate a random number  
-- `!roll` → Roll a dice  
-- `!say <text>` → Bot repeats your message  
+- `!rand` / `?rand` → Generate a random number  
+- `!roll` / `?roll` → Roll a dice  
+- `!say <text>` / `?say <text>` → Bot repeats your message  
 
 ---
 
