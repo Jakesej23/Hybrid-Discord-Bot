@@ -102,11 +102,13 @@ Use spaces to separate:
 
 `discord.py python-dotenv aiohttp requests`
 
-requirements.txt
+6. 📦 Requirements
 
-discord.py>=2.3.0,<3.0.0
+requirements.txt:
 
-⚙️ Tech Stack
+`discord.py>=2.3.0,<3.0.0`
+
+7. ⚙️ Tech Stack
 
 * Python 3.10+
 * discord.py (2.x)
